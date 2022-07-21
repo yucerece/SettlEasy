@@ -224,5 +224,3 @@ int main(){
     rGraph = NULL;
     return 0;
 }
-
-//lol
